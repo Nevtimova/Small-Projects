@@ -1,6 +1,10 @@
+<div align="center">
+
 # 💻Small-Projects💻
 
-Some of my projects i did for my Fundamentals curse, Enjoy:
+Some of my projects I did for my Fundamentals course, Enjoy:
+
+</div>
 
 ## 📋Table of Content:
 
