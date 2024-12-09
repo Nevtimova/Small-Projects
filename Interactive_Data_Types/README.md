@@ -1,5 +1,11 @@
 # Interactive Data Type Operations System
 
+<p align="center">
+  <img src="https://ioflood.com/blog/wp-content/uploads/2023/09/Collage-of-Python-data-types-integers-strings-lists-code-snippets-Python-logo.jpg" alt="Python Data Types Collage">
+</p>
+
+
+
   This Python project demonstrates basic operations on common data types: Strings, Numbers, Booleans, and Additional Data Types (Lists, Tuples, Dictionaries). It provides an interactive menu that allows users to perform different operations on each data type, such as string manipulation, arithmetic, logical operations, and handling lists, tuples, and dictionaries.
 
 ### 🌟 Project Overview 
