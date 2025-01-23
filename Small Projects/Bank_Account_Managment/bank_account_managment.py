@@ -10,6 +10,7 @@ class BankAccount:
         self.balance = balance
 
     def deposit(self, amount):
+
         if amount > 0:
             self.balance += amount
             print(f"Deposited ${amount:.2f}. New balance: ${self.balance:.2f}")
