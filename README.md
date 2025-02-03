@@ -12,3 +12,5 @@ Some of my projects I did for my Fundamentals course, Enjoy:
 
 ✔️ [Rock, Paper, Scissors](https://github.com/Nevtimova/Small-Projects/tree/main/Rock_paper_scissors)
 
+✔️ [Bank Account Management](https://github.com/Nevtimova/Small-Projects/tree/main/Bank_Account_Managment)
+
