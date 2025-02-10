@@ -1,7 +1,9 @@
 # Workshop: Console Tic-Tac-Toe
 In this workshop, we will create a simple two-player "Tic-Tac-toe" game. Here is how the game is going to look in the end:
-  
 
+![image](https://github.com/user-attachments/assets/6ef096e3-c0ef-45ae-a6c8-123c55b3c442)
+
+![image](https://github.com/user-attachments/assets/6b627a75-048c-40e4-bebb-0f9dc91c37a7)
 
 # The Main Logic
 Global Variables
