@@ -2,7 +2,7 @@
 
 We will create a simple two-player "Connect Four" game in this workshop. Here is how the game is going to look in the end:
 
-![image](https://github.com/user-attachments/assets/cb3a7231-7681-4d64-80f9-463a5db3feda
+![image](https://github.com/user-attachments/assets/cb3a7231-7681-4d64-80f9-463a5db3feda)
 
 ![image](https://github.com/user-attachments/assets/cd40ba50-98e3-4150-86b7-efd71470bad3)
 
