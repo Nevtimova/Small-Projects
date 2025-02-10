@@ -6,6 +6,8 @@ We will create a simple two-player "Connect Four" game in this workshop. Here is
  
 •	A player wins when he/she connects four slots.
 
+![image](https://github.com/user-attachments/assets/cb3a7231-7681-4d64-80f9-463a5db3feda)
+
 •	The winning connected slots must be consecutive
 
 •	A connection can be
