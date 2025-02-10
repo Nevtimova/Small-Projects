@@ -14,3 +14,4 @@ Some of my projects I did for my Fundamentals course, Enjoy:
 
 ✔️ [Bank Account Management](https://github.com/Nevtimova/Small-Projects/tree/main/Bank_Account_Managment)
 
+✔️ [Console Tic Tac Toe](https://github.com/Nevtimova/Small-Projects/tree/main/Console_Tic_Tac_Toe)
