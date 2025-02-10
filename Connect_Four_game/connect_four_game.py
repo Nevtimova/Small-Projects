@@ -1,6 +1,7 @@
 import numpy as np
 
 ROWS = 6
+
 COLS = 7
 
 
