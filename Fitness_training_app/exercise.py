@@ -5,5 +5,6 @@ class Exercise:
         self.description = description
         self.difficulty = difficulty
 
+
     def view_exercise(self):
         return f"{self.name}: {self.description} (Difficulty: {self.difficulty})"

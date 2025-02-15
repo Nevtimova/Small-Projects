@@ -3,6 +3,7 @@ class Workout:
     def __init__(self):
         self.exercises = []
 
+
     def add_exercise(self, exercise, sets, reps, rest_time):
         self.exercises.append({
             'exercise': exercise,

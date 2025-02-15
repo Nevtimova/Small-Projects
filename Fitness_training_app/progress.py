@@ -3,6 +3,7 @@ class ProgressTracker:
     def __init__(self):
         self.logs = []
 
+
     def log_workout(self, workout):
         self.logs.append(workout)
 

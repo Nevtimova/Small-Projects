@@ -2,7 +2,6 @@
 from Fitness_training_app.exercise import Exercise
 from Fitness_training_app.progress import ProgressTracker
 from Fitness_training_app.user import User
-
 from Fitness_training_app.workout import Workout
 
 

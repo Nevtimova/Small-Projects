@@ -1,5 +1,6 @@
 # user.py
 class User:
+
     def __init__(self, name, age, weight, height, fitness_goal):
         self.name = name
         self.age = age
