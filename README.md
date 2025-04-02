@@ -2,7 +2,6 @@
 
 # 💻Small-Projects💻
 
-Some of my projects I did for my Fundamentals course, Enjoy:
 
 </div>
 
