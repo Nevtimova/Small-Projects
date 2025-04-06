@@ -14,3 +14,6 @@
 ✔️ [Bank Account Management](https://github.com/Nevtimova/Small-Projects/tree/main/Bank_Account_Managment)
 
 ✔️ [Console Tic Tac Toe](https://github.com/Nevtimova/Small-Projects/tree/main/Console_Tic_Tac_Toe)
+
+✔️ [Fitness Training App](https://github.com/Nevtimova/Small-Projects/tree/main/Fitness_training_app)
+
